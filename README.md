@@ -27,6 +27,13 @@ The dataset (hacker_news.csv) consists of approximately **20,000 rows**, downsam
 *   **Object-Oriented Programming**: Working with Python lists and list of lists.
 *   **Date & Time Engineering**: Utilizing the `datetime` module to perform time-series analysis.
 
+## Key Findings
+1.  **Ask HN vs. Show HN**: `Ask HN` posts receive significantly more comments (**14.04** avg) compared to `Show HN` posts (**10.32** avg).
+2.  **Peak Engagement Time**: For `Ask HN` posts, the **15:00 (3 PM) EST** hour receives the highest average number of comments (**38.59** per post).
+
+## Conclusion & Recommendation
+To maximize engagement, users should format their posts as **Ask HN** and submit them during the **15:00 EST** window. According to the data, this timing yields nearly triple the overall average engagement.
+
 ## How to Run
 1. Ensure you have Python and Jupyter Notebook installed.
 2. Clone this repository.
